@@ -13,9 +13,9 @@ Roseisle Manitoba which is about an hour from Winnipeg.
 
 ## Skills
 
-<img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
-<img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889")/>&nbsp;
-<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+![HTML Badge](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889)&nbsp;
+![CSS Badge](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889)&nbsp;
+![JavaScript Badge](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889)&nbsp;
 
 ## Statistics
 
