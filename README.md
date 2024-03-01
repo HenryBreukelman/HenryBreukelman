@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-![Banner](link_to_your_banner_image)
+![Banner](./assets/github-banner)
 
 ## About Me
 
