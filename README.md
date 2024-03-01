@@ -21,7 +21,7 @@ and building things
 
 ## Contact
 
-Email: <henrybreukelman@student.mitt.ca>
+Email: ['henrybreukelman@student.mitt.ca']<mailto:henrybreukelman@student.mitt.ca>
 
 ## Statistics
 
