@@ -24,7 +24,8 @@ and building things
 Email: [henrybreukelman@student.mitt.ca](<mailto:henrybreukelman@student.mitt.ca>)
 
 ## Statistics
-![HenryBreukelman's Stats](https://github-readme-stats.vercel.app/api?username=HenryBreukelman&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![HenryBreukelman's Stats](https://github-readme-stats.vercel.app/api?username=HenryBreukelman&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-![HenryBreukelman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryBreukelman&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![HenryBreukelman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryBreukelman&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryBreukelman&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
