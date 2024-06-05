@@ -19,6 +19,8 @@ and building things.
 ![CSS Badge](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889)&nbsp;
 ![JavaScript Badge](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889)&nbsp;
 [![React Badge](https://img.shields.io/badge/React-v16.0.0-blue.svg?style=for-the-badge&logo=react&logoColor=white&color=2aa889)](https://reactjs.org/)
+![C# Badge](https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889)
+
 
 ## Contact
 
