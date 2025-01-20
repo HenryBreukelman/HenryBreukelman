@@ -4,14 +4,10 @@
 
 ## About Me
 
-My name is Henry Breukelman. I am currently taking software development at Manitoba Institute of 
-Trades and Technology, and have learned the basics of HTML, CSS, JavaScript, React, C# and SQL. 
-I am looking forword to learning more languages and improving the ones I know. I want to get into 
-app design or creating games. 
-
-I enjoy designing and crating things whether it is with Lego, Minecraft or code. I live in 
-Roseisle Manitoba which is about an hour from Winnipeg. I enjoy reading, playing Minecraft
-and building things.
+My name is Henry Breukelman. I have graduated from Manitoba Institute of Trades and Technology
+for software, and have learned the basics of HTML, CSS, JavaScript, React, C# and SQL. I also know
+the basics of Unity and Blender I am looking forword to learning more languages and improving the 
+ones I know. I want to get into app design or creating games. 
 
 ## Skills
 
