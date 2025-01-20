@@ -17,6 +17,8 @@ ones I know. I want to get into app design or creating games.
 ![React Badge](https://img.shields.io/badge/code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889)
 ![C# Badge](https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2aa889)
 ![Three.js Badge](https://img.shields.io/badge/code-Three.js-informational?style=for-the-badge&logo=three.js&logoColor=white&color=2aa889)
+![Unity Badge](https://img.shields.io/badge/program-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=2aa889)
+![Blender Badge](https://img.shields.io/badge/program-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2aa889)
 
 
 
